@@ -1,2 +1,2 @@
 # ZOOM
-Zoom images using pyuthon flask
+Zoom images using python flask
